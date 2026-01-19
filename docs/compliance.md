@@ -1,1 +1,4 @@
-
+- no illegal scrapping
+- no automation don't follow the CGU
+- human verification before put in live
+- sources and prompts stored in the manifest for audit
