@@ -1,0 +1,17 @@
+# env
+.env
+*.env
+
+# python
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# outputs
+outputs/*
+!outputs/.gitkeep
+
+# n8n local
+automations/n8n/.n8n/
